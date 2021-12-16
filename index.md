@@ -26,7 +26,7 @@ Knowing the equivalence between chlorophyll-a and the algae concentration, we ca
 
 As we can see in the previous image, the algae community increases with depth until a certain depth (12 metres, in Geneva Lake), and then it starts to decrease as a function of the depth. If we now look at the oxygen concentration as a function of time it is possible to observe that it follows the same behaviour as chlorophyll-a. As discussed before, since the algae concentration increases, more oxygen is released by the photosistsis done by these organisms. 
 
-	Why does the algae concentration start at a lower concentration ? At the first metre of the lake water column, the light intensity is too high to be tolerated by the organism., causing the photoinhibition of the photosynthetic species. As a consequence only few species and individuals can be found at a shallower depth, while a wider range of organisms can live at a moderate depth, which is expressed as an increase in the chlorophyll-a. 
+Why does the algae concentration start at a lower concentration ? At the first metre of the lake water column, the light intensity is too high to be tolerated by the organism., causing the photoinhibition of the photosynthetic species. As a consequence only few species and individuals can be found at a shallower depth, while a wider range of organisms can live at a moderate depth, which is expressed as an increase in the chlorophyll-a. 
 
 A similar principle is behind the decrease of the chlorophyll-a in deeper water, but in this case the absence of light generate the decrease in chlorophyll-a and the oxygen produced.
 
