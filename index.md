@@ -1,4 +1,4 @@
-### What is the relationship between Algae community and Oxygen ?.
+### What is the relationship between Algae community and Oxygen ?
 
 Algae is a term that means ‘seaweeds’ in Latin and it represents a diverse community of photosynthetic active organisms that sustain the world food chain. These organisms are microscopic plants and plant-like microorganisms, such as green algae, red algae, diatoms, dinoflagellates, and other eukaryotic algae. Even though cyanobacteria correspond to the phylum of bacteria, and hence they are not included in the algae community, they are also photosynthetic active organisms which affect the lake water quality if present.  
 
